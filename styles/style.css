@@ -238,7 +238,7 @@ ol {
 
 .content__video-card-title {
   width: 205.75px;
-  font-family: 'Oswald';
+  font-family: 'Oswald', sans-serif;
   font-size: 30px;
   text-transform: uppercase;
   overflow: hidden;
